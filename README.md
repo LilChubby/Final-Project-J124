@@ -50,6 +50,10 @@ _5 Questions with Step by Step Answers on the following Data Sheet_ <br/>
 ![pivot table](Q4.png)
 * From the pivot table we have created above, we can see that in general, students who receive both extra educational support (schoolsup) and family emotional support (famsup) tend to have lower average absences compared to those who receive neither or only one of these types of support. This suggests that a combination of school-based and family-based support might contribute to better attendance. Similarly, for students who do not receive extra educational support or family emotional support (no-no), lower levels of going out behavior (goout) seem to correlate with fewer average absences. On the other hand, for students who receive both types of support (yes-yes), the relationship between going out behavior and absences is less consistent. Because we were only able to identify a general trend and not a very strong correlation, it is saef to assume that the impact of going out behavior on absences appears to vary based on whether students receive different combinations of support. While students receiving support might have generally higher absences with higher going out behavior (goout), the pattern is not as straightforward for every student. The relationship between going out behavior and absences is influenced by multiple factors, (including the presence of support systems) but whether or not an individual student is directly impacted by these support systems is also important to consider. Therefore, the complexity of these factors can make it challenging to predict absences solely based on going out behavior and support received.
 
+### Data Visualization
+![pivot table](q4viz.png) <br/>
+This clustered bar chart represents the average student absences depending on whether the student receives support from their school/family. This illustration matches with the findings above and show that for the most part, students who are supported by both their family and school have relatively low absences. On the other hand, students with no support tend to have high amount of absences. There is confusion when students receieve family support but not school support because there is suddenly a lot more absences in this cluster of bars. However, we do not know enough to make any inferences on this case and can only assume that there were outliers that drastically affected our data.
+
  <br/>
 
 **Question 5:**Question:** How does the student's home address type (address) influence their going-out behavior (goout) with friends, and how does this interaction affect both workday alcohol consumption (Dalc) and weekend alcohol consumption (Walc)?** <br/>
@@ -80,11 +84,16 @@ Furthermore, students who engage in higher weekly study times and have internet 
 
 Lastly, the home address type (urban vs. rural) appears to influence students' social behaviors and alcohol consumption habits. Urban students, with greater access to social venues, tend to engage in higher going out behavior and consequently exhibit slightly higher alcohol consumption. This connection between urban living, social activities, and alcohol consumption implies that local context and accessibility impact students' choices.
 
-From this data analysis, students are able to gain valuable insight on potential factors that they could change in order to enhance their academic performance such as avoiding drinking, developing healthy family relationships, and to avoid being absent.
+From this data analysis, students are able to gain valuable insight on potential factors that they could change in order to enhance their academic performance such as avoiding drinking, developing healthy family relationships, and to avoid being absent. 
 
 This data on “Alcohol Effects on Study” was collected by Paolo Cortez, a member of the University of California, Irvine Student Performance, in 2008 at Cortez and Silva (Portugal) in two secondary Portuguese schools and later published by the UCI Machine Learning Repository.
 
-### Data Visualizations
+### Credible Contacts
+Sworn in on March 2, 2021, Miguel A. Cardona is the Secretary of Education who oversees the education system of the United States. Herves as the principal advisor to the president of the United States, and the federal government, on policies, programs, and activities related to all education in the United States. An interview with him would provide greater, deeper insight on how students can improve their academic careers and what factors are deterrants to the education of our students.
+
+Additionally, another great person that could help uncover what holds our students back from succeeding is the school therapist since they hold the power to build rapport and understand our students on a deeper level whether it be through counseling, interactions, or even group activities that help students feel welcomed and supported.
+
+
 
 
 
