@@ -93,8 +93,10 @@ Sworn in on March 2, 2021, Miguel A. Cardona is the Secretary of Education who o
 
 Additionally, another great person that could help uncover what holds our students back from succeeding is the school therapist since they hold the power to build rapport and understand our students on a deeper level whether it be through counseling, interactions, or even group activities that help students feel welcomed and supported.
 
+### Additional Resources
+1. A great resource that could provide us with different ways to tackle the pressing issues that prevent students from succeeding is [Learning A-Z](https://www.learninga-z.com/site/resources/breakroom-blog/data-in-education) since it breaks down many of the determinants of a child's success in school.
 
-
+2. A good dataset to use would be [nations report card](https://www.nationsreportcard.gov/) becuase they have up to date statistics and information on the education level of students of all grades in each and every state. It would be very helpful to compare the data in this story to that of another state to see if they match up.
 
 
 
