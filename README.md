@@ -3,6 +3,7 @@
 ## By: Darren Chiang
 
 _5 Questions with Step by Step Answers on the following Data Sheet_ <br/>
+
 **Question 1: How do weekly study times (studytime) and free time after school (freetime) affect both workday alcohol consumption (Dalc) and weekend alcohol consumption (Walc)?** <br/>
 1. First press on any cell with data but make sure not to highlight the data. Then select the insert function on the top of the google sheets and press pivot table to create a new pivot table in a new sheet.
 2. Once the pivot table is open, select studytime as rows, freetime as columns, and Dalc and Walc using the average function on both as the values. This will allow us to see how weekly study times and freetime affect alcohol consumption on both weekdays and weekends.
@@ -14,8 +15,7 @@ _5 Questions with Step by Step Answers on the following Data Sheet_ <br/>
 #### The full table should look like this.
 ![pivot table](Q1p2.png)
 
-* As shown, the pivot table indicates that as studytime increases from 1 to 4, there is a general trend of reduced average workday alcohol consumption (Dalc) and weekend alcohol consumption (Walc).
-This suggests that students who dedicate more time to studying tend to consume less alcohol on both weekdays and weekends. Additionally, we can conclude that students with not a lot of free time (freetime=1), there seems to be a decrease in average alcohol consumption as studytime increases. Conversely, for students with a lot of free time (freetime=5), the pattern of alcohol consumption remains relatively consistent across different studytime levels. It is evident that students who are able to make a healthy balance between study and leisure time (moderate studytime and freetime values) generally demonstrate moderate alcohol consumption. This could potentially infer that maintaining a healthy balance between academic commitments and personal time requires one to be more responsible with their alcohol consumption.
+* As shown, the pivot table indicates that as studytime increases from 1 to 4, there is a general trend of reduced average workday alcohol consumption (Dalc) and weekend alcohol consumption (Walc). The data might be easily misinterpreted if you compare it incorrectly. You are supposed to compare weekday consumption to weekend consumption and not simply compare them all together becuase there are two columns, which may it a bit confusing! This suggests that students who dedicate more time to studying tend to consume less alcohol on both weekdays and weekends. Additionally, we can conclude that students with not a lot of free time (freetime=1), there seems to be a decrease in average alcohol consumption as studytime increases. Conversely, for students with a lot of free time (freetime=5), the pattern of alcohol consumption remains relatively consistent across different studytime levels. It is evident that students who are able to make a healthy balance between study and leisure time (moderate studytime and freetime values) generally demonstrate moderate alcohol consumption. This could potentially infer that maintaining a healthy balance between academic commitments and personal time requires one to be more responsible with their alcohol consumption.
 
  <br>
 
@@ -63,7 +63,32 @@ This suggests that students who dedicate more time to studying tend to consume l
 * From the pivot table above, we can see that students with urban home addresses (address=U) tend to have slightly higher average going out behavior (goout) compared to students with rural home addresses (address=R). This suggests that students living in urban areas might be more inclined to engage in social activities and spend time outside with friends. This is pretty reasonable since there is more access to malls, cafes, and convenient, local places to gather while kids who reside in rural areas might have other responsibilities that they are obligated to tend to. There is a general trend of higher average alcohol consumption, both workday alcohol consumption (Dalc) and weekend alcohol consumption (Walc), among students who have higher going out behavior (goout). Interestingly, regardless of home address type, students who go out more frequently tend to have higher alcohol consumption levels. In our previous questions, we learned that students who go out more tend to have more failures in school and tying in our data from this question, it is not a stretch to assume that going out and drinking alcohol negatively impacts their academics. To further strengthen this argument, we can see that students with urban home addresses (address=U) generally exhibit slightly higher average alcohol consumption (both Dalc and Walc) compared to those with rural home addresses (address=R). This could be due to the fact that students in urban areas might have easier access to social venues and experiences that could influence their alcohol consumption habits. It is important to keep in mind that the interaction between home address type, going out behavior, and alcohol consumption is dependent on multiple factors (some of which are not in the data). It involves individual preferences, local culture, and accessibility to social opportunities.
 
  <br/>
-### Short Summary and Sourcing
+
+ ### Short Summary and Sourcing
+
+ 
+The goal with this data is to illustrate that there are many factors that affect a student’s academic career and to evaluate how each individual factors that were selected for each question may pose difficulties on students’ ability to succeed in their studies.
+
+
+The data analysis reveals significant insights into student life, evaluated across various factors. As we examine the patterns, we uncover compelling trends that shed light on how certain aspects of student behavior and circumstances are interconnected.
+
+Firstly, the pivot table clearly illustrates that students who dedicate more time to studying (studytime) demonstrate a corresponding decrease in average alcohol consumption, both on weekdays (Dalc) and weekends (Walc). This correlation implies that higher study commitment is associated with responsible alcohol consumption habits. Furthermore, the relationship between study time and alcohol consumption appears to be influenced by free time (freetime). Students with minimal free time tend to reduce their alcohol consumption as study time increases, suggesting a prioritization of academic engagement over leisure activities. Conversely, those with abundant free time maintain consistent alcohol consumption levels regardless of study time. This emphasizes the importance of balancing academics and personal time for a moderate approach to alcohol consumption.
+
+Moreover, the data indicates a strong positive correlation between the quality of family relationships (famrel) and student health (health). Higher family relationship ratings coincide with better health statuses, underlining the significant impact of family dynamics on student well-being. Additionally, family relationship quality seems to affect the prevalence of romantic relationships (romantic), with both low and high famrel ratings correlating with fewer romantic involvements. This suggests that strong family relationships may contribute to overall student contentment and potentially influence their romantic pursuits.
+
+Furthermore, students who engage in higher weekly study times and have internet access at home exhibit fewer class failures. This suggests that increased study efforts combined with home internet access contribute to better academic performance and a lower likelihood of past class failures. Although a general trend exists, caution is warranted due to missing data for certain failure categories.
+
+Lastly, the home address type (urban vs. rural) appears to influence students' social behaviors and alcohol consumption habits. Urban students, with greater access to social venues, tend to engage in higher going out behavior and consequently exhibit slightly higher alcohol consumption. This connection between urban living, social activities, and alcohol consumption implies that local context and accessibility impact students' choices.
+
+From this data analysis, students are able to gain valuable insight on potential factors that they could change in order to enhance their academic performance such as avoiding drinking, developing healthy family relationships, and to avoid being absent.
+
+This data on “Alcohol Effects on Study” was collected by Paolo Cortez, a member of the University of California, Irvine Student Performance, in 2008 at Cortez and Silva (Portugal) in two secondary Portuguese schools and later published by the UCI Machine Learning Repository.
+
+### Data Visualizations
+
+
+
+
 
 
 
