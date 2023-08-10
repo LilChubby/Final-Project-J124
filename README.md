@@ -52,7 +52,7 @@ _5 Questions with Step by Step Answers on the following Data Sheet_ <br/>
 
 ### Data Visualization
 ![pivot table](q4viz.png) <br/>
-This clustered bar chart represents the average student absences depending on whether the student receives support from their school/family. This illustration matches with the findings above and show that for the most part, students who are supported by both their family and school have relatively low absences. On the other hand, students with no support tend to have high amount of absences. There is confusion when students receieve family support but not school support because there is suddenly a lot more absences in this cluster of bars. However, we do not know enough to make any inferences on this case and can only assume that there were outliers that drastically affected our data.
+The link to this data visualization is [datawrapper](https://datawrapper.dwcdn.net/tCZhD/2/). This clustered bar chart represents the average student absences depending on whether the student receives support from their school/family. This illustration matches with the findings above and show that for the most part, students who are supported by both their family and school have relatively low absences. On the other hand, students with no support tend to have high amount of absences. There is confusion when students receieve family support but not school support because there is suddenly a lot more absences in this cluster of bars. However, we do not know enough to make any inferences on this case and can only assume that there were outliers that drastically affected our data.
 
  <br/>
 
