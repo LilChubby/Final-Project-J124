@@ -2,6 +2,9 @@
 # J124 Final Project: Understanding the factors that affect student's life
 ## By: Darren Chiang
 
+### Data Analysis Process
+* Download the “Alcohol Effects on Study” [students data](https://www.kaggle.com/datasets/whenamancodes/alcohol-effects-on-study?resource=download&select=Maths.csv) as .csv files, upload it to Google Drive, and open it with Google Sheets. <br>
+
 _5 Questions with Step by Step Answers on the following Data Sheet_ <br/>
 
 **Question 1: How do weekly study times (studytime) and free time after school (freetime) affect both workday alcohol consumption (Dalc) and weekend alcohol consumption (Walc)?** <br/>
